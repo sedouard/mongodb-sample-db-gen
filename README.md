@@ -13,5 +13,5 @@ node app.js
 
 Change the number of first and last names (inside [firstnames.txt](./firstnames.txt) and [lastnames.txt](./lastnames.txt)) to increase or decrease the side of the output database json file. You can make a very large json database by increasing the names (grows at firstname * lastname rate).
 
-Load this json file with the ![mongoimport](http://docs.mongodb.org/manual/reference/program/mongoimport/) tool that comes with the mongodb installation.
+Load this json file with the [mongoimport](http://docs.mongodb.org/manual/reference/program/mongoimport/) tool that comes with the mongodb installation.
 
